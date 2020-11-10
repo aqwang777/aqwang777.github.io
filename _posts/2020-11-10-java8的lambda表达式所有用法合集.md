@@ -8,7 +8,7 @@ author: aqwang
 
 * content
 {:toc}
-## java8的lambda表达式所有用法合集
+
 
 ### .map()
 
