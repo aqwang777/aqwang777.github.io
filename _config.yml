@@ -7,7 +7,7 @@
 
 # Site settings
 title: 王鏖棋的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: 脚踏实地，方能远行
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://assassinated1.github.io" # the base hostname & protocol for your site
 
